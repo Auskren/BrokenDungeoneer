@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BrokenDungeoneeer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BrokenDungeoneeer_jar</output-path>
+    <root id="archive" name="BrokenDungeoneeer.jar">
+      <element id="module-output" name="BrokenDungeoneeer" />
+    </root>
+  </artifact>
+</component>
