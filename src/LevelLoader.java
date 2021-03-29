@@ -5,7 +5,9 @@ public  class LevelLoader {
 
     public static void levelOne(Handler handler){
         handler.removeAllObjects();
-        try{
+        try{/*                          This kind of metod for loading map is shamful but I was short on time at the point I made the game.
+                                      For anyone looking this for learning never take this part as an example. I advise you to add your level file parser and
+                                      your own level file format for splitting areas. */
             // mortals
             Handler.addObject(new Skeleton(31*12, 31*3,40,85,31*12,31*24,ID.Skeleton));
             Handler.addObject(new Sorcerer(31*81, 31*18,50,120,31*81,31*87,ID.Sorcerer));
