@@ -1,3 +1,3 @@
-Kadir Basa Berkuk Kaplan
-19050111027
-made and build with intellij (netbeans won't see this as a project)
+Part of the project I made for OOP course.
+it is an incomplete roguelike game made in java with awt library
+Assets and their creator can be found in here: https://uilleaggodwin.itch.io/roguelike-dungeon-asset-bundle
